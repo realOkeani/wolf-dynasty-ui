@@ -1,0 +1,39 @@
+{
+  "name": "untitled",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "latest",
+    "jwt-decode": "^2.2.0",
+    "material-ui": "^0.20.2",
+    "mui-datatables": "^2.8.0",
+    "nes.css": "^2.2.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-router": "latest",
+    "react-scripts": "2.1.8",
+    "react-tap-event-plugin": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "espn-fantasy-football-api": "^0.10.1",
+    "prop-types": "latest",
+    "react-router-dom": "^5.0.0"
+  }
+}
