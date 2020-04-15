@@ -100,8 +100,8 @@ export function LoginPage() {
             <>
             <div className="grid_container">
                 <img className="logo" src={logo} alt="logo" />
-                <form className="form" id='loginForm' onSubmit={login}>
-                    <p id='errorMessage'>{errorMsg}</p>
+                {/* <form className="form" id='loginForm' onSubmit={login}>
+                    <p id='errorMessage'>{errorMsg}</p> */}
 
                     {/*<p>Please Login by entering your username and password.</p>*/}
                     {/*<h3>Username</h3>*/}
@@ -143,7 +143,7 @@ export function LoginPage() {
                     {/*        Register*/}
                     {/*    </Button>*/}
                     {/*</Link>*/}
-                </form>
+                {/* </form> */}
             </div>
             </>
         );
